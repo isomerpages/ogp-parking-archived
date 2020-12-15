@@ -20,10 +20,9 @@ sections:
           description: Download
           url: >-
             https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en
-  - infopic:
+  - infobar:
       title: Quicktour
-      subtitle: Watch our
-      alt: Image alt text
+      description: 'Infobar description '
   - infopic:
       title: Calculate fees automatically
       description: Infopic description
