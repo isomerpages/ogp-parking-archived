@@ -22,7 +22,7 @@ sections:
             https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en
   - infobar:
       title: Quicktour
-      description: 'Infobar description '
+      description: <iframe width="560" height="315" src="https://www.youtube.com/embed/W1bxtVwuZr0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - infopic:
       title: Calculate fees automatically
       description: Instead of displaying parking coupons, you can use the app to key in your vehicle number, select the car park and indicate your parking duration. The app will automatically calculate the charges you have to pay using your credit or debit card.
