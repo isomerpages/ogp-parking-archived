@@ -2,6 +2,8 @@
 title: Activate Session
 permalink: /faq/activate-session/
 ---
+### Activating your Parking Session
+
 ##### How does Parking.sg App work?
 Parking.sg allows you to pay short-term parking charges through your mobile device at all existing coupon-based public car parks. The app will serve as an alternative mode of payment to paper parking coupons. You will need to key in your vehicle number, select the car park, indicate the parking duration, pay using your credit or debit card and start parking. You will also be able to extend the parking session remotely via the app. You do not need to use the Parking.sg app for parking at car parks already installed with the Electronic Parking System (EPS).
 
