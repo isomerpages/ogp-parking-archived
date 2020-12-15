@@ -4,21 +4,22 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ''
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Parking.sg
+      subtitle: >-
+        Pay for parking using your mobile devices at all coupon parking car
+        parks. A collaboration between GovTech, URA and HDB.
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: 'https://google.com'
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: 'https://gmail.com'
+        - title: App store
+          description: Download
+          url: 'https://apps.apple.com/vn/app/parking-sg/id1286602494'
+        - title: Google Play
+          description: Download
+          url: >-
+            https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en
   - infopic:
       title: Quicktour
       subtitle: Watch our
