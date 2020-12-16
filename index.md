@@ -10,7 +10,7 @@ sections:
       title: Parking.sg
       subtitle: >-
         Pay for parking using your mobile devices at all coupon parking car
-        parks. A collaboration between GovTech, URA and HDB.
+        parks. <br>A collaboration between GovTech, URA and HDB.
       background: /images/hero-banner.png
       key_highlights:
         - title: App store
@@ -34,7 +34,7 @@ sections:
       description: If you choose to end your parking session earlier, a refund calculated on a per minute basis will be given.
   - infobar:
       title: Contact us
-      description: To provide feedback on the app, please email us at feedback@parking.sg. The feedback link is also available through the app.
+      description: To provide feedback on the app, please email us at feedback@parking.sg. <br>The feedback link is also available through the app.
       button: Email us
       url: /faq/
 ---
