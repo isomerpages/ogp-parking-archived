@@ -1,5 +1,5 @@
 ---
-title: Activate Session
+title: Activating your Parking Session
 permalink: /faq/activate-session/
 ---
 ### Activating your Parking Session
