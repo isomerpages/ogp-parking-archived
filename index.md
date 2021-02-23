@@ -20,11 +20,9 @@ sections:
           description: Download
           url: >-
             https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en
-  - infopic:
+ - infobar:
       title: Quicktour
-      alt: Image alt text
-      image: <iframe width="560" height="315" src="https://www.youtube.com/embed/W1bxtVwuZr0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      alt: Video of parking.sg
+      description: <iframe width="560" height="315" src="https://www.youtube.com/embed/W1bxtVwuZr0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - infopic:
       title: Calculate fees automatically
       description: >-
