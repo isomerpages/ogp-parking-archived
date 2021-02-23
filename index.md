@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Parking.sg
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -22,7 +22,11 @@ sections:
             https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en
   - infobar:
       title: Quicktour
-      description: <iframe width="560" height="315" src="https://www.youtube.com/embed/W1bxtVwuZr0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      description: >-
+        <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/W1bxtVwuZr0" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+        gyroscope; picture-in-picture" allowfullscreen></iframe>
   - infopic:
       title: Calculate fees automatically
       description: >-
