@@ -23,7 +23,7 @@ sections:
   - infopic:
       title: Quicktour
       alt: Image alt text
-      image: <iframe width="560" height="315" src="https://www.youtube.com/embed/W1bxtVwuZr0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      image:<iframe width="560" height="315" src="https://www.youtube.com/embed/W1bxtVwuZr0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       alt: Video of parking.sg
   - infopic:
       title: Calculate fees automatically
