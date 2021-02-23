@@ -30,7 +30,7 @@ sections:
         your vehicle number, select the car park and indicate your parking
         duration. The app will automatically calculate the charges you have to
         pay using your credit or debit card.
-      image: /images/Calculate.png
+      image: /images/Calculate_Clear.png
       alt: Calculate fees automatically
   - infopic:
       title: Extend remotely
@@ -39,14 +39,14 @@ sections:
         notifications when it is expiring. You can extend your parking duration
         at your own time and convenience, without having to return to your
         vehicle to add more coupons.
-      image: /images/Extend.png
+      image: /images/Extend_Clear.png
       alt: Extend your session remotely
   - infopic:
       title: Get a refund
       description: >-
         If you choose to end your parking session earlier, a refund calculated
         on a per minute basis will be given.
-      image: /images/Refund.png
+      image: /images/Refund_Clear.png
       alt: Get a refund
   - infobar:
       title: Contact us
