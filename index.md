@@ -22,6 +22,7 @@ sections:
             https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en
   - infobar:
       title: Quicktour
+      description: hello
   - infopic:
       title: Calculate fees automatically
       description: >-
