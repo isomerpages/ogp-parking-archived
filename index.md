@@ -58,6 +58,6 @@ sections:
         To provide feedback on the app, please email us at feedback@parking.sg.
         <br>The feedback link is also available through the app.
       button: Email us
-      url: <a href="mailto:feedback@parking.sg">
+      url: mailto:feedback@parking.sg
 
 ---
