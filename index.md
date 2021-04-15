@@ -13,11 +13,11 @@ sections:
         parks. <br>A collaboration between GovTech, URA and HDB.
       background: /images/Hero_small.jpg
       key_highlights:
-        - title: App store
-          description: Download
+        - title: Download
+          description: From the App Store
           url: 'https://apps.apple.com/vn/app/parking-sg/id1286602494'
-        - title: Google Play
-          description: Download
+        - title: Download
+          description: From Google Play
           url: >-
             https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en
   - infobar:
@@ -58,6 +58,10 @@ sections:
         To provide feedback on the app, please email us at feedback@parking.sg.
         <br>The feedback link is also available through the app.
       button: Email us
-      url: mailto:feedback@parking.sg
-
+      url: 'mailto:feedback@parking.sg'
+  - infopic:
+      button: Download
+      url: www.google.com
+      image: /images/Download_on_the_App_Store_Badge.png
+      alt: Image alt text
 ---
